@@ -82,17 +82,17 @@ header h1,header p,header p a,header p a img{
 
     /*--------------------------------------------------productos-------------------------------------------------------*/
     .cuerpo{
-        margin: 35px;
+        margin: 0px;
     }
 
     .cuerpo article{
-        float: left;
+        text-align: center;
     }
 
     .cuerpo #img{
         transition: box-shadow 0.7s ease;
-        width: 200px;
-        height: 350px;
+        width: 250px;
+        height: 370px;
         margin: 10px;
         padding: 0;
         border: seashell 2px groove;    
