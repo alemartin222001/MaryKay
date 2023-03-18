@@ -42,6 +42,9 @@ header h1,header p,header p a,header p a img{
 .cuerpo article{
     text-align: left;
 }
+.cuerpo article a{
+    text-decoration: none;
+}
 
 .cuerpo #img{
     transition: box-shadow 0.7s ease;
@@ -93,6 +96,10 @@ header h1,header p,header p a,header p a img{
         text-align: left;
     }
 
+    .cuerpo article a{
+    text-decoration: none;
+}
+    
     .cuerpo #img{
         transition: box-shadow 0.7s ease;
         width: 600px;
