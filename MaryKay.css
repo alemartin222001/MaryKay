@@ -39,7 +39,7 @@ header h1,header p,header p a,header p a img{
 }
 
 .cuerpo article{
-    display: inline;
+    text-align: left;
 }
 
 .cuerpo #img{
@@ -89,7 +89,6 @@ header h1,header p,header p a,header p a img{
 
     .cuerpo article{
         text-align: left;
-        display: block;
     }
 
     .cuerpo #img{
