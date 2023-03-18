@@ -39,14 +39,13 @@ header h1,header p,header p a,header p a img{
 }
 
 .cuerpo article{
-    text-align: center;
-    display: inline;
+    display: flex;
 }
 
 .cuerpo #img{
     transition: box-shadow 0.7s ease;
-    width: 550px;
-    height: 700px;
+    width: 350px;
+    height: 450px;
     margin: 22px;
     padding: 0;
     border: seashell 2px groove;    
@@ -89,8 +88,7 @@ header h1,header p,header p a,header p a img{
     }
 
     .cuerpo article{
-        text-align: center;
-        display: inline;
+        display: flex;
     }
 
     .cuerpo #img{
