@@ -39,7 +39,7 @@ header h1,header p,header p a,header p a img{
 }
 
 .cuerpo article{
-    float: left;
+    text-align: center;
 }
 
 .cuerpo #img{
