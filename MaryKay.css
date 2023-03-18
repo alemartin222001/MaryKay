@@ -30,6 +30,7 @@ header h1,header p,header p a,header p a img{
 #op{
     text-decoration: none;
     margin: 0;
+    padding: 10px;
 }
 
 /*--------------------------------------------------productos-------------------------------------------------------*/
@@ -79,6 +80,7 @@ header h1,header p,header p a,header p a img{
     #op{
         text-decoration: none;
         margin: 0;
+        padding: 10px;
     }
 
     /*--------------------------------------------------productos-------------------------------------------------------*/
